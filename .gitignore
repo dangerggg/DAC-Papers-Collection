@@ -1,0 +1,27 @@
+## ENV IGNORE
+.vscode/
+.DS_Store
+
+## CMAKE IGNORE
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+build/
+
+## ANTLR IGNORE
+*.tokens
+*.intrip
+
+## RUST IGNORE
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
