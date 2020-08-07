@@ -18,3 +18,21 @@ My research interests include **high-level synthesis**, **neural network compila
 
 ### 2020 DAC
 
+#### Machine learning in solving traditional EDA problems
+
+- Reinforcement Learning-based Power. Management Policy for Mobile Device Systems
+- A Neural Network that Routes ICs
+
+#### Neural network accelerator design
+
+- MEMTONIC: A Neuromorphic Accelerator for Energy Efficient Deep Learning
+  - Designed for inference and training
+- Building an On-Chip Deep Learning Memory Hierarchy Brick by Brick
+  - Memory access is one of the most important bottlenecks in designing NN accelerators
+- Automated Hardware Generation of CNN Models on FPGAs
+- Bit Parallel 6T SRAM In-memory Computing with Reconfigurable Bit-Precision
+- Factored Radix-8 Systolic Array for Tensor Processing
+
+#### High-level synthesis
+
+- DECOY: Deflection-Driven HLS-Based Computation Partitioning for Obfuscating Intellectual Property
